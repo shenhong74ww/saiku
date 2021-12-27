@@ -2,7 +2,7 @@
 
 2. Added license.lic from [saiku-fix](https://github.com/ambientelivre/saiku-fix) at the root folder.
 
-3. Added saiku-latest.zip, you can find the jar that cannot be downloaded in `saiku-server\tomcat\webapps\saiku\WEB-INF\lib`.
+3. Download [saiku-server](https://github.com/OSBI/saiku/issues/736) from the first link since community version download page cannot be opened. You can find the jar that cannot be downloaded in `saiku-server\tomcat\webapps\saiku\WEB-INF\lib`.
 
 ### Reference
 
